@@ -4,7 +4,7 @@
 
 ![portfolio](https://github.com/ziba-irani/Portfolio-1-/assets/125620113/546ffda5-a801-4cec-b3ab-76bcc53db8eb)
 
-- [Demo Project](https://ziba-irani.github.io/firstTailwindProject/)
+- [Demo Project](https://ziba-irani.github.io/Portfolio-1-/)
 
 - Developed by ziba irani
 
