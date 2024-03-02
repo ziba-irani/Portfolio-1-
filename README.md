@@ -2,7 +2,7 @@
 
 **enjoy my new Tailwind project**
 
-- ![firstTailwindProject](https://github.com/ziba-irani/firstTailwindProject/assets/125620113/88221fd9-8396-4b56-8f15-b4bba35b8821)
+![portfolio](https://github.com/ziba-irani/Portfolio-1-/assets/125620113/546ffda5-a801-4cec-b3ab-76bcc53db8eb)
 
 - [Demo Project](https://ziba-irani.github.io/firstTailwindProject/)
 
